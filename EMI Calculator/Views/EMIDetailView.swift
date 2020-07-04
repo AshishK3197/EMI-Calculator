@@ -65,9 +65,3 @@ struct EMIDetailView_Previews: PreviewProvider {
         EMIDetailView()
     }
 }
-
-//.bold()
-//.font(.system(size: 20))
-//.padding(5)
-//.foregroundColor(.black)
-//.offset(x: -5, y: -5)
